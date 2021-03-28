@@ -1,0 +1,14 @@
+{
+  "name": "songslope",
+  "version": "1.0.0",
+  "description": "Song Slope Desktop App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Peter Budd",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^12.0.2"
+  }
+}
