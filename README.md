@@ -3,11 +3,11 @@ Are you a music subscription user?  Do you (like me) have over 100 playlists tha
 
 
 ~~Version 0.0.1 :~~
-  -~~- Electron app~~
-  -~~- Import playlists from spotify~~
-  -~~- Export to text (Share text files to other users)~~
-  -~~- Import Playlists from text~~
-  -~~- Export playlists to spotify~~
+  - ~~- Electron app~~
+  - ~~- Import playlists from spotify~~
+  - ~~- Export to text (Share text files to other users)~~
+  - ~~- Import Playlists from text~~
+  - ~~- Export playlists to spotify~~
 
 Version 0.1.2 :
   - Spotify Authentication
